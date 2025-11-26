@@ -1,24 +1,32 @@
-# HR--Staff-Insights-and-More---Tableau
-📊 **HR Staff Insights and More – Tableau Dashboard**
-This interactive Tableau dashboard provides a comprehensive view into key HR metrics, empowering data-driven decision-making within human resource departments. From employee demographics to attrition trends, this dashboard uncovers actionable insights that help HR professionals manage and retain top talent more effectively.
+HR Staff Insights and More – Tableau Dashboard
 
-🔍 **Key Features:**
-Employee Overview: Visualizes staff distribution by department, job role, gender, and educational background.
+This Tableau dashboard provides a comprehensive and analytical view of key HR metrics, enabling data driven decision making within human resource functions. It consolidates employee demographics, attrition trends, salary patterns, performance metrics, and work life balance indicators into a single interactive analytics environment. The goal is to equip HR professionals with insights that enhance workforce planning, talent retention, and organizational development.
 
-Attrition Analysis: Highlights patterns in employee turnover with filters for age, experience, department, and job satisfaction.
+Key Features
 
-Salary & Promotion Trends: Displays relationships between salary hikes, job roles, performance ratings, and promotion cycles.
+Employee Overview
+Presents employee distribution across departments, job roles, gender categories, education levels, and experience bands.
 
-Work-Life Balance & Job Satisfaction: Assesses employee sentiment and satisfaction scores to identify areas of concern.
+Attrition Analysis
+Identifies patterns in employee turnover with filters for age, tenure, department, job role, and satisfaction scores. Helps in understanding the underlying drivers of attrition.
 
-Interactive Filters: Easily segment and drill down into specific groups of employees for customized insights.
+Salary and Promotion Trends
+Displays relationships between salary hikes, performance ratings, job levels, and promotion cycles to uncover compensation gaps or career progression bottlenecks.
 
-📈 **Tools Used:**
-Tableau Public – for dashboard development and visualization
+Work Life Balance and Job Satisfaction
+Assesses employee sentiment and organizational climate through satisfaction ratings, work life balance scores, and engagement indicators.
 
-Excel/CSV – for cleaning and preparing raw HR data
+Interactive Filters
+Enables targeted exploration by allowing users to segment data by department, experience level, performance category, and other key attributes.
 
-🧠 **Objective:**
-To support HR leaders in visualizing workforce data for better hiring, retention, and engagement strategies. The dashboard can be adapted for real-time organizational use or case study purposes.
+Tools Used
+
+Tableau Public for dashboard development and visualization
+Excel or CSV for data cleaning, structuring, and preparation
+
+Objective
+
+The dashboard is designed to assist HR leaders and analysts in understanding workforce dynamics, optimizing hiring strategies, improving retention outcomes, and strengthening employee engagement frameworks. It can be adapted for real time organizational reporting or used as a case study for HR analytics learning.
+View the dashboard here : https://public.tableau.com/app/profile/nikhil.p.marihal3329/viz/HumanResourses_17433265056310/Analytics
 
 
