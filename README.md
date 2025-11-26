@@ -27,6 +27,7 @@ Excel or CSV for data cleaning, structuring, and preparation
 Objective
 
 The dashboard is designed to assist HR leaders and analysts in understanding workforce dynamics, optimizing hiring strategies, improving retention outcomes, and strengthening employee engagement frameworks. It can be adapted for real time organizational reporting or used as a case study for HR analytics learning.
+
 View the dashboard here : https://public.tableau.com/app/profile/nikhil.p.marihal3329/viz/HumanResourses_17433265056310/Analytics
 
 
